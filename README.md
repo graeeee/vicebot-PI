@@ -2,8 +2,8 @@
 
 <dl>
     <dt>Links</dt>
-    <dd> [Website](http://vicevalorant.com) </dd>
-    <dd> [Discord](https://discord.gg/T8U5nvZ) </dd>
+    <dd>Website: http://vicevalorant.com </dd>
+    <dd>Discord https://discord.gg/T8U5nvZ </dd>
     <dt>Term 2</dt>
     <dd>definition 1</dd>
     <dd>definition 2</dd>
