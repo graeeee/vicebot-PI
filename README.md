@@ -1,6 +1,6 @@
 # vicebot
 **Offical Vice Valorant 10man Discord Bot**
-
+List of full commands below, also picks captains for 10man game once queue channels reach 10 players
 
 <dl>
     <dt>Links</dt>
