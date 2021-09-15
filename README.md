@@ -1,4 +1,6 @@
 # vicebot
+**Offical Vice Valorant 10man Discord Bot**
+
 
 <dl>
     <dt>Links</dt>
