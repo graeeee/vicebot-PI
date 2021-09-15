@@ -5,10 +5,16 @@
     <dd>Website: http://vicevalorant.com </dd>
     <dd>Discord https://discord.gg/T8U5nvZ </dd>
 </dl>
-   [Website](http://vicevalorant.com)
-   [Discord](https://discord.gg/T8U5nvZ)
-**__Official Vice Valorant Discord 10man Bot__**
- 
- Discord bot with application system for Vice Valorant 10mans,
- Asks Questions, then sends message to admin channel.
- Staff can **!approve {user} {valorant-name}** or **!decline {user} {reason**
+
+All Commands | Descriptions
+------------ | -------------
+!apply | Allows user to get a DM from bot fill out application for 10mans
+!approve {user} {riot-name | (Host only) allows host to approve user for 10man role
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
